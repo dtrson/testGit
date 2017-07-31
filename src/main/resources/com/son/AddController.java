@@ -8,6 +8,6 @@ public class AddController {
 
 	@RequestMapping("/add")
 	public void add() {
-		System.out.println("From the controller");
+		System.out.println("From the Controller");
 	}
 }
